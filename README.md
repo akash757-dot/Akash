@@ -105,9 +105,9 @@ No build tools or servers are required since this is a static project.
 ---
 
 🧑‍💻 Author
-
-📧 Email:[]
-🐙 GitHub:[]
+Akah R
+📧 Email:[akashmass909@gmail.com]
+🐙 GitHub:[https://github.com/akash757-dot/Akash.git]
 
 
 ---
